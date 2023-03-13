@@ -1,0 +1,27 @@
+#Variables 02
+
+name1 = "Mani"
+name2 = "mikezz"
+name3 = "daishon"
+name4 = "liam"
+name5 = "charlie"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+town1 = "west croydon"
+town2 = "lambeth"
+town3 = "bromley"
+town4 = "kingston"
+town5 = "merton"
+ 
+print("") 
+ 
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
