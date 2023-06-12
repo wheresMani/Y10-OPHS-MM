@@ -1,0 +1,9 @@
+invite = "y"
+count = 0
+
+while invite == "y":
+  name1  = str(input("Invitee's name is?"))
+  count = count + 1
+  invite = str(input("Anymore invitee's?"))
+
+print("You have succesfully invited",count,"people!")  
