@@ -1,0 +1,4 @@
+minutes = input("Enter a number in minutes")
+hours = int(minutes)/60 
+mins = int(minutes)%60 
+print(int(hours) ,str("hours and"), (int)(mins) ,str("mins"))
